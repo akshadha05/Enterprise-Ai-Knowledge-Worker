@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "type": "email",
+    "timestamp": "2026-08-02T23:46:56",
+    "to": "priya@company.com",
+    "subject": "Tomorrow's Meeting Moved to 3:00 PM",
+    "body": "Hi Priya,\n\nPlease be advised that tomorrow's meeting has been rescheduled to 3:00 PM. \n\nBest regards,\nOffice Assistant"
+  },
+  {
+    "id": 2,
+    "type": "ticket",
+    "timestamp": "2026-08-02T23:47:08",
+    "title": "Login page is throwing a 500 error",
+    "description": "Login page is throwing a 500 error.",
+    "priority": "High"
+  },
+  {
+    "id": 3,
+    "type": "meeting",
+    "timestamp": "2026-08-02T23:49:22",
+    "attendees": "design team",
+    "date": "2026-08-10",
+    "time": "2:00 PM",
+    "subject": "New Logo"
+  },
+  {
+    "id": 4,
+    "type": "email",
+    "timestamp": "2026-08-02T23:55:30",
+    "to": "aksdofficial0503@gmail.com",
+    "subject": "Request for Document Submission",
+    "body": "Dear Recipient,\n\nI hope this email finds you well.\n\nCould you please submit the required documents at your earliest convenience? Please let us know if you have any questions or need further assistance.\n\nThank you and best regards,"
+  },
+  {
+    "id": 5,
+    "type": "ticket",
+    "timestamp": "2026-08-04T01:03:00",
+    "title": "Interview Recommendation: Akshadha Rathore",
+    "description": "Recommendation to interview Akshadha Rathore for a Software Engineer / Backend & Data Systems role. Her most impressive project is SentinelPay: a fraud detection backend system where she designed a backend to process and analyze 10,000+ UPI transactions with real-time fraud risk scoring, implemented ML-based classification models, built REST APIs with Power BI dashboards, and optimized SQL queries and data pipelines to improve processing efficiency by 35%.",
+    "priority": "High"
+  },
+  {
+    "id": 6,
+    "type": "email",
+    "timestamp": "2026-08-04T01:03:48",
+    "to": "aksdofficial0503@gmail.com",
+    "subject": "Summary of Key Technical Skills",
+    "body": "Hi Akshadha,\n\nHere is a summary of your key technical skills based on our internal documents:\n\n- Programming Languages: Python, JavaScript\n- Core CS: Data Structures & Algorithms (Basics), Object-Oriented Programming, DBMS fundamentals\n- Backend & APIs: Node.js, Express.js, REST APIs, JWT-based Authentication\n- Databases: PostgreSQL, MySQL, MongoDB (CRUD, basic indexing)\n- Frontend: React.js, HTML, CSS\n- Data & Libraries: Pandas, NumPy, Scikit-learn (basic model usage)\n- Tools & Platforms: Git, GitHub, Power BI, Linux (basic), Oracle Cloud Infrastructure (AI Foundations & Data Science)\n\nBest regards,\nEnterprise AI Assistant"
+  },
+  {
+    "id": 7,
+    "type": "ticket",
+    "timestamp": "2026-08-04T01:05:07",
+    "title": "Review Onboarding Documentation",
+    "description": "Review and update the company onboarding documentation to ensure it is current and comprehensive for new hires.",
+    "priority": "Medium"
+  },
+  {
+    "id": 8,
+    "type": "ticket",
+    "timestamp": "2026-08-04T01:06:45",
+    "title": "Interview Recommendation & Future Project Ideas: Akshadha Rathore",
+    "description": "Recommendation to interview Akshadha Rathore for a Software Engineer / Backend & Data Systems role. \n\nHer most impressive project is SentinelPay (a fraud detection backend system processing 10,000+ UPI transactions with real-time risk scoring, ML classification, and a 35% performance improvement via optimized SQL queries).\n\nSuggested future projects for her to build:\n1. Real-Time Collaborative Code Editor: A WebSocket-based live code editing platform with operational transformation, syntax highlighting, and room management.\n2. Distributed Task Scheduler: A resilient, asynchronous job queue and worker architecture built in Node.js/Python with retry logic, scheduling, and monitoring dashboards.\n3. Automated API Security & Rate Limiting Gateway: A custom API gateway featuring dynamic rate limiting, token bucket algorithms, anomaly detection for DDoS patterns, and API usage analytics.",
+    "priority": "High"
+  },
+  {
+    "id": 9,
+    "type": "meeting",
+    "timestamp": "2026-08-05T00:17:59",
+    "attendees": "Akshadha Rathore",
+    "date": "2026-08-20",
+    "time": "2:00 PM",
+    "subject": "Discussion on Grade History"
+  },
+  {
+    "id": 10,
+    "type": "ticket",
+    "timestamp": "2026-08-05T00:18:11",
+    "title": "Double check Akshadha CGPA calculation",
+    "description": "Double check and verify Akshadha's CGPA calculation across her resume and provisional grade history records.",
+    "priority": "Medium"
+  },
+  {
+    "id": 11,
+    "type": "email",
+    "timestamp": "2026-08-05T00:19:00",
+    "to": "hr@acmecorp.com",
+    "subject": "Akshadha Rathore - Technical Background & SDD Report Summary",
+    "body": "Hi HR Team,\n\nHere is a short summary of Akshadha's technical background and work, drawing from her Spec-Driven Development (SDD) comparative analysis report:\n\nAkshadha authored a comprehensive comparative analysis report covering three major Spec-Driven Development frameworks: SpecKit (GitHub), Conductor (Google), and Symphony (OpenAI). Her work demonstrates a strong grasp of modern AI-assisted software engineering challenges, software lifecycle workflows, and architectural design patterns across solo and enterprise scales.\n\nBest regards,\nDigital Employee"
+  },
+  {
+    "id": 12,
+    "type": "email",
+    "timestamp": "2026-08-05T00:39:13",
+    "to": "hr@acmecorp.com",
+    "subject": "Technical Summary: Akshadha Rathore",
+    "body": "Hi HR Team,\n\nHere is a short summary of Akshadha Rathore's technical background based on her resume:\n\n- **Role / Profile:** Software Engineer specializing in backend development and data-intensive systems.\n- **Education:** B.Tech in Computer Science Engineering (Cloud Computing & Automation) from Vellore Institute of Technology, Bhopal (Graduating 2026, CGPA: 8.63).\n- **Core Technical Skills:** \n  - Languages: Python, JavaScript\n  - Backend & APIs: Node.js, Express.js, REST APIs, JWT Authentication\n  - Databases: PostgreSQL, MySQL, MongoDB\n  - Frontend: React.js, HTML, CSS\n  - Data & ML: Pandas, NumPy, Scikit-learn, Power BI\n  - Tools: Git, GitHub, Linux\n- **Key Projects:** Built \"SentinelPay,\" a fraud detection backend system designed to process and analyze 10,000+ UPI transactions with real-time risk scoring.\n\nBest regards,\nDigital Employee"
+  },
+  {
+    "id": 13,
+    "type": "meeting",
+    "timestamp": "2026-08-05T00:39:34",
+    "attendees": "Akshadha Rathore",
+    "date": "2026-08-20",
+    "time": "2:00 PM",
+    "subject": "Discussion on Grade History"
+  },
+  {
+    "id": 14,
+    "type": "ticket",
+    "timestamp": "2026-08-05T00:39:35",
+    "title": "Double check Akshadha CGPA calculation",
+    "description": "Double check and verify Akshadha's CGPA calculation against official academic records.",
+    "priority": "Medium"
+  },
+  {
+    "id": 15,
+    "type": "email",
+    "timestamp": "2026-08-05T00:45:15",
+    "to": "aksdofficial0503@gmail.com",
+    "subject": "Job & Project Updates Check-In",
+    "body": "Hi Akshadha,\n\nI'm just checking in to see how things are going and if you have any recent job updates or updates on your projects you'd like to share. \n\nBest regards,\nDigital Employee"
+  }
+]

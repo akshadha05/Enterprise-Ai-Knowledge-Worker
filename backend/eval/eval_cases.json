@@ -1,0 +1,46 @@
+{
+  "_readme": "Each case is a question, a list of keywords that MUST appear in the answer (case-insensitive) if expect_refusal is false, and whether a refusal ('couldn't find this') is the CORRECT expected behavior. Edit this file as your documents change -- these specific facts assume the resume, SDD report, and grade history documents used during development are still in the knowledge base.",
+
+  "cases": [
+    {
+      "question": "what's akshadha's CGPA according to her resume?",
+      "expect_keywords": ["8.63"],
+      "expect_refusal": false
+    },
+    {
+      "question": "what's her CGPA according to her institutional grade history?",
+      "expect_keywords": ["8.36"],
+      "expect_refusal": false
+    },
+    {
+      "question": "tell me about her sentinelpay project",
+      "expect_keywords": ["SentinelPay", "fraud"],
+      "expect_refusal": false
+    },
+    {
+      "question": "compare speckit and symphony",
+      "expect_keywords": ["SpecKit", "Symphony"],
+      "expect_refusal": false
+    },
+    {
+      "question": "who is prithuyash?",
+      "expect_keywords": [],
+      "expect_refusal": true
+    },
+    {
+      "question": "what's the CEO's name?",
+      "expect_keywords": [],
+      "expect_refusal": true
+    },
+    {
+      "question": "what's her father's occupation?",
+      "expect_keywords": [],
+      "expect_refusal": true
+    },
+    {
+      "question": "does the SDD report mention her CGPA?",
+      "expect_keywords": [],
+      "expect_refusal": true
+    }
+  ]
+}

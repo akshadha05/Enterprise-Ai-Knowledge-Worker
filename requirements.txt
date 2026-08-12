@@ -1,0 +1,11 @@
+chromadb
+pdfplumber
+python-docx
+voyageai
+python-dotenv
+fastembed
+anthropic
+google-genai
+fastapi
+uvicorn
+pytest
